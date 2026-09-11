@@ -1,0 +1,6 @@
+# 1.0.0 (2026-09-11)
+
+
+### Bug Fixes
+
+* support current GitHub Actions runtimes ([ffd6777](https://github.com/Wumbaloo/test-mep/commit/ffd67773fcb39acda72074f206dfa1dadf0379bb))

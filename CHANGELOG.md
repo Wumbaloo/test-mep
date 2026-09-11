@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Wumbaloo/test-mep/compare/v1.0.2...v1.1.0) (2026-09-11)
+
+
+### Features
+
+* **readme:** add infos ([#4](https://github.com/Wumbaloo/test-mep/issues/4)) ([073b504](https://github.com/Wumbaloo/test-mep/commit/073b504bd2a0d92c2946d897e6aca1e3308ee873))
+
 ## [1.0.2](https://github.com/Wumbaloo/test-mep/compare/v1.0.1...v1.0.2) (2026-09-11)
 
 
